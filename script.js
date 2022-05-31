@@ -35,9 +35,9 @@ while (true) {
     }
 
     function add(numberOne, numberTwo) {
-        alert("Here.");
+        // test alert("Here.");
         var sum = numberOne + numberTwo;
-        alert("Here.");
+        //test alert("Here.");
         return sum;
         // test printResult(sum);
 
